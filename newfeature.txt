@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is new feature
 Hello World
 123
 123
+=======
+This is new feature
+>>>>>>> newfeature
